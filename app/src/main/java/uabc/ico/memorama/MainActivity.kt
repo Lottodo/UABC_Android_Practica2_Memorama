@@ -88,13 +88,6 @@ fun MainContent(
                     }
                 }
             })
-        /*NumberTextField(label="NumberOne", number=numberOne.value, onNumberChange={numberOne.value=it})
-        Spacer(modifier = Modifier.height(16.dp))
-        NumberTextField(label="NumberTwo", number=numberTwo.value, onNumberChange={numberTwo.value=it})
-        Spacer(modifier=Modifier.height(16.dp))
-        Button(onClick = onClick) {
-            Text(text = "Send data")
-        }*/
     }
 
 }
